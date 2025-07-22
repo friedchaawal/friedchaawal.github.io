@@ -1,0 +1,28 @@
+    :root {
+    --color-base: hsl(249deg 22% 12%);
+    --color-surface: hsl(247deg 23% 15%);
+    --color-overlay: hsl(248deg 25% 18%);
+    --color-muted: hsl(249deg 12% 47%);
+    --color-subtle: hsl(248deg 15% 61%);
+    --color-text: hsl(245deg 50% 91%);
+    --color-love: hsl(343deg 76% 68%);
+    --color-gold: hsl(35deg 88% 72%);
+    --color-rose: hsl(2deg 55% 83%);
+    --color-pine: hsl(197deg 49% 38%);
+    --color-foam: hsl(189deg 43% 73%);
+    --color-iris: hsl(267deg 57% 78%);
+    --color-low: #21202e;
+    --color-med: #403d52;
+    --color-high: #524f67;
+    }
+    p {
+    color: hsl(245deg 50% 91%);
+    }
+    h1 {
+    color: hsl(189deg 43% 73%);
+    }
+    .container {display: flex;}
+    .row {flex-direction: row;}
+    .column {flex-direction: column;}
+    .centered {justify-content: center;}
+    button {font-family: inherit;}
