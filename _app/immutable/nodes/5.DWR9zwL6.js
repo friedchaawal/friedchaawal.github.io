@@ -1,0 +1,1 @@
+import{f as t,a as p}from"../chunks/DDN0QMLg.js";import"../chunks/DHy4Pl8u.js";import{i as a}from"../chunks/BsU3Dl-v.js";var m=t("<h1>projects</h1> <p>treifdjogvc</p>",1);function i(o){var r=m();a(2),p(o,r)}export{i as component};
