@@ -9,9 +9,24 @@
     #Handles {
         background-color: var(--color-base);
         flex: 1;
+        flex-direction: row;
+    }
+    .handle-grid {
     }
 </style>
 <div id="Handles">
-    <h1>handles</h1>
-    <p>treasdasc</p>
+            <div>
+            <p>jdoiqwjodqw</p><p>iudfewhiudhweiu</p>
+        </div>
+                <div>
+            <p>jdoiqwjodqw</p><p>iudfewhiudhweiu</p>
+        </div>
+    <div class="handle-grid">
+        <div>
+            <p>jdoiqwjodqw</p><p>iudfewhiudhweiu</p>
+        </div>
+        <div>
+            <p>jdoiqwjodqw</p><p>iudfewhiudhweiu</p>
+        </div>
+    </div>
 </div>

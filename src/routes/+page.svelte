@@ -16,6 +16,7 @@
     }
     #Home {
         background-color: var(--color-base);
+        display: flex;
         flex: 1;
     }
     #HomeCenter {
@@ -38,7 +39,7 @@
         text-align: center;
     }
 </style>
-<div id="Home" class="container row">
+<div id="Home" class="row">
     <div id="HomeCenter" class="container column">
         <h1>uhgreui9dhs</h1>
         <div class="textbox column">
