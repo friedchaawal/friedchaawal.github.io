@@ -1,0 +1,1 @@
+import{f as e,a as r}from"../chunks/ze_GXNYa.js";import"../chunks/3liIbagO.js";var d=e('<div id="Handles" class="svelte-r3v5dw"><h1 class="svelte-r3v5dw">handles</h1> <p class="svelte-r3v5dw">treasdasc</p></div>');function o(s){var a=d();r(s,a)}export{o as component};

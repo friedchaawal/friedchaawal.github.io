@@ -1,1 +1,0 @@
-import{f as o,a as r}from"../chunks/C1BEHSdE.js";import"../chunks/BrRFomIM.js";import{j as a}from"../chunks/DZ0AvcLq.js";var p=o('<h1 class="svelte-133xvet">projects</h1> <p class="svelte-133xvet">treifdjogvc</p>',1);function n(t){var e=p();a(2),r(t,e)}export{n as component};
