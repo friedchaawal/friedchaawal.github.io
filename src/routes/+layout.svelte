@@ -17,7 +17,7 @@
     }
     .sidebar {
         background-color: var(--color-overlay);
-        width: 13vw;
+        width: 13%;
         height: 100%;
         gap: 0.925vh;
     }
@@ -77,9 +77,9 @@
         padding: 0.5vmin;
         color: var(--color-text)
     }   
-    .content {
+    #Content {
         background-color: var(--color-base);
-        width: 87vw;
+        width: 87%;
     }
 </style>
 
@@ -99,7 +99,7 @@
             <a href="https://3t1t.neocities.org/fried/next">-&gt;</a>
         </div>
     </div>
-    <div class="container content">
+    <div id="Content" class="">
         <slot />
     </div>
 </div>
