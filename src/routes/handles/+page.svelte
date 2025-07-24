@@ -6,6 +6,12 @@
         font-size: 1.75vmin;
         margin: 1vmin;
     }
+    #Handles {
+        background-color: var(--color-base);
+        flex: 1;
+    }
 </style>
-<h1>handles</h1>
-<p>1231351321</p>
+<div id="Handles">
+    <h1>handles</h1>
+    <p>treasdasc</p>
+</div>

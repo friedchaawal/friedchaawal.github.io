@@ -10,9 +10,9 @@
 </script>
 
 <style>
-    .parent {
-        height: 100%;
+    #Parent {
         width: 100%;
+        height: 100%;
         flex: 1;
     }
     .sidebar {
@@ -20,6 +20,7 @@
         width: 13%;
         height: 100%;
         gap: 0.925vh;
+        position: fixed;
     }
     #Pfp {
         margin-top: 2.75vh;
@@ -80,10 +81,11 @@
     #Content {
         background-color: var(--color-base);
         width: 87%;
+        margin-left: 13%;
     }
 </style>
 
-<div class="parent container row">
+<div id="Parent" class="container row">
     <div class="sidebar container column">
         <div id="Pfp" class="container row centered">
             <img src="pfp.jpg">
