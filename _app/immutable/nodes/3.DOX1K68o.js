@@ -1,1 +1,0 @@
-import{f as r,a as p}from"../chunks/DDN0QMLg.js";import"../chunks/DHy4Pl8u.js";import{i as t}from"../chunks/BsU3Dl-v.js";var m=r("<h1>handles</h1> <p>1231351321</p>",1);function i(o){var a=m();t(2),p(o,a)}export{i as component};

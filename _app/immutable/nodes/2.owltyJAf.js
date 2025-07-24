@@ -1,1 +1,0 @@
-import{f as r,a as e}from"../chunks/DDN0QMLg.js";import"../chunks/DHy4Pl8u.js";import{i as a}from"../chunks/BsU3Dl-v.js";var p=r("<h1>test test test test</h1> <p>128yr89f23huewndj</p>",1);function f(t){var o=p();a(2),e(t,o)}export{f as component};
