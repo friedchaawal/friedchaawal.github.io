@@ -41,11 +41,23 @@
 </style>
 <div id="Home" class="row">
     <div id="HomeCenter" class="container column">
-        <h1>uhgreui9dhs</h1>
+        <h1>*under construction*</h1>
         <div class="textbox column">
-            <p>fwefsdfwdsfcweguiowehnfooijegwoijfweoijoifjoijwefoijf, foweuihfoiwejhfoiwejfwef; fouewhjfiowehj fijweofwe. fweuifhjweofwefwefwe.</p>
+            <p> Handles page is done, onto nanologs in journal</p>
+            <p>.</p>
+            <p>.</p>
+            <p>.</p>
+            <p>.</p>
+            <p>.</p>
+            <p>.</p>
+            <p>.</p>
+            <p>.</p>
+            <p>.</p>
+            <p>.</p>
+            <p>.</p>
             <p>gher98ughiuweefh9wgfwerfwqefwe</p>
             <p>g8 hfweiufhweojfowej ffowejfoejoijoiwejfoiwejf</p>
+            <p>urgeh8tufrhj q2we7ft89h uerg87u wehfu8wehfiuwe hfiuhw efi uhw efiuhwe ifhweif uhweiufhweivhn 8iuwevniweg vhj98wqeufjvniweuhf giwehfiwhnev inweivnwe</p>
         </div>
     </div>
     <div id="HomeMiddle" class="container column">

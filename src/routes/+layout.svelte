@@ -45,7 +45,7 @@
         width: 10.5vw;
         height: 5vh;
         border: 0.2vmin solid var(--color-high);
-        border-radius: 0.5vmin;
+        border-radius: 3%;
         color: var(--color-iris);
         background-color: var(--color-low);
         transition: all 0.3s ease;
