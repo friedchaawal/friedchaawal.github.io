@@ -1,0 +1,1 @@
+import{f as t,a as e}from"../chunks/DDIDqVEq.js";import"../chunks/DLL_j8tx.js";var a=t('<div id="Projects" class="svelte-soq9t3"><h1 class="svelte-soq9t3">projects</h1> <p class="svelte-soq9t3">treifdjogvc</p></div>');function v(s){var o=a();e(s,o)}export{v as component};
