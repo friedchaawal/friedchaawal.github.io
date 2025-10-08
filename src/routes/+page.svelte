@@ -169,7 +169,7 @@
             </p>
         </div>
         <div id="spotify-status">
-            <p> *js reload 😔* </p>
+            <p> . . . </p>
         </div>
     </div>
 </div>
