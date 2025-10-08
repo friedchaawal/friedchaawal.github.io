@@ -107,7 +107,7 @@
             </p>
         </div>
         <div id="spotify-status">
-            <p>🎵 nothing atm </p>
+            <p>🎵 nothing atm (or maybe js reload) </p>
         </div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/color-thief/2.3.2/color-thief.umd.js"></script>
         <script>
