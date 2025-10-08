@@ -20,12 +20,13 @@
 
         if (spotify) {
         container.innerHTML = `
-            <div style="display:flex; align-items:center; gap:1vmin;">
+            <div style="display:flex; align-items:center; gap:1.5vmin;">
                 <img id="album-art" src="${spotify.album_art_url}" style="width:8vmin;height:8vmin;border-radius:1.25vmin;">
                 <div style="min-width:0;">
-                    <p style="margin:0; font-size:1.75vmin; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:32vmin;" id="song-title"><strong>${spotify.song}</strong></p>
-                    <p style="margin:0; font-size:1.75vmin; color:#aaa; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:32vmin;" id="song-artist">${spotify.artist}</p>
-                    <p style="margin:0; font-size:1.25vmin; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:32vmin;" id="song-album">🎧 ${spotify.album}</p>
+                    <p style="margin:0; font-size:1.75vmin; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:31vmin;" id="song-title"><strong>${spotify.song}</strong></p>
+                    <p style="margin:0; font-size:1.75vmin; color:#aaa; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:31vmin;" id="song-artist">by ${spotify.artist}</p>
+                    <p></p>
+                    <p style="margin:0; font-size:1.25vmin; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:31vmin;" id="song-album">from "${spotify.album}"</p>
                 </div>
             </div>
         `;
