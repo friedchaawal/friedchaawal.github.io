@@ -52,7 +52,7 @@
             }
         };
         } else {
-            container.innerHTML = `<p>🎵 Not listening right now</p>`;
+            container.innerHTML = `<p>🎵 nothing atm</p>`;
             container.style.background = "#1e1e1e";
             container.style.color = "#fff";
             }
@@ -169,7 +169,7 @@
             </p>
         </div>
         <div id="spotify-status">
-            <p>🎵 nothing atm (or maybe js reload) </p>
+            <p> *js reload 😔* </p>
         </div>
     </div>
 </div>
