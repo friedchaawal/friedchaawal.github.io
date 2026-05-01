@@ -9,7 +9,7 @@ export async function load() {
     for (const file of files) {
         const content = fs.readFileSync(path.join(entriesDir, file), 'utf-8');
         const fileEntries = content
-            .split('===') // Split entries by separator
+            .split('===')
             .map(block => block.trim())
             .filter(block => block)
             .map(block => {
