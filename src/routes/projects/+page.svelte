@@ -89,7 +89,6 @@
                 {#each artwork as art}
                     <div class="textbox art-box">
                         <a href={art.link} class="artwork-anchor">
-                            {art.name}
                             <img src="artwork/{art.path}" class="artwork-img">
                         </a>
                     </div>
