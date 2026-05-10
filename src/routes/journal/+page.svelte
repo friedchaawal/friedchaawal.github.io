@@ -1,6 +1,4 @@
 <script>
-    export let data;
-    let entries = data.entries;
 </script>
 
 <style>
@@ -18,17 +16,4 @@
 </style>
 <div id="Journal">
     <h1>Journal</h1>
-    <div class="timeline">
-        {#if entries.length}
-            {#each entries as entry}
-                <div class="entry">
-                    <div class="meta">{entry.date} | {entry.time}</div>
-                    {#if entry.heading}
-                        <div class="heading">{entry.heading}</div>
-                    {/if}
-                    <p>{entry.content}</p>
-                </div>
-            {/each}
-        {/if}
-    </div>
 </div>

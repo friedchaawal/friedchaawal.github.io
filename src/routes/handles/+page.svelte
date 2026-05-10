@@ -11,7 +11,7 @@
         {
             name: "Discord Server",
             user: "Discord Server",
-            url: "https://discord.gg/swyVXNKWPF",
+            url: "https://zeffo.me/guac",
             icon: "fa-brands fa-discord",
             bg: "#7289DA",
             color: "var(--color-base)",

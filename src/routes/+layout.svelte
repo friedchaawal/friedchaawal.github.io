@@ -35,7 +35,7 @@
         margin-top: 4vh;
         gap: 2.25vh;
     }
-    #Nav > a {
+    #Nav > a {  
         display: flex;
         justify-content: center;
         text-decoration: none;
